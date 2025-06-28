@@ -2,7 +2,10 @@
 
 **Complete Termux Guide**
 
+![photo_2025-05-21_19-38-02 (2)](https://github.com/user-attachments/assets/2059a743-53a8-473f-8cf7-f72b818ac1e1)
+
    ```bash
+
  pkg update && pkg upgrade -y
    ```
    ```bash
@@ -34,4 +37,8 @@ pkg install nodejs git -y
 **Start The Script**
    ```bash
    node Gbyjenny.js
+   ```
+**Access token** Expire in 1 day
+  ```bash
+   eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZXhhbXBsZS11c2VyIiwiaWF0IjoxNzUxMTExMjU2LCJleHAiOjE3NTExOTc2NTZ9.mQ1juY6f7zUUNb4FsDPwnR4nKZ9KEV8DF0rKgCKr9L0
    ```
