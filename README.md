@@ -1,6 +1,6 @@
 # Gradient Multiple Node Farming By Jenny DM For Buy the Script https://t.me/scriptsbyjenny
 
-* Complete Termux Guide 
+**Complete Termux Guide**
 
    ```bash
  pkg update && pkg upgrade -y
